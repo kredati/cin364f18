@@ -136,6 +136,7 @@ Essays by Walter Benjamin:
 Related reading:
 * Susan Buck-Morss, “Aesthetics and Anaesthetics: The Artwork Essay Reconsidered”
 * Miriam Hansen, “Room-for-Play: Benjamin’s Gamble with the Cinema”
+* Miriam Hansen, _Cinema and Experience_
 * Mark B. N. Hansen, “On Some Motifs in Benjamin” from _Embodying Technesis_
 
 #### Week 3: Marshall McLuhan: Alterations in Sense Ratios
@@ -218,7 +219,7 @@ Related Reading:
 * Viewing: John Simon, _Every Icon_
 
 **Tuesday** October 30:
-* Wendy Chun, “On Software, or the Persistence of Visual Knowledge”
+* Wendy Chun, “Daemonic Interfaces, Empowering Obfuscations”
 * Alexander Galloway, “Language Wants to be Overlooked”
 * Mark B. N. Hansen, “Technical Repetition and Digital Art, or Why the ‘Digital’ in Digital Cinema is not the ‘Digital’ in Digital Technics”
 
@@ -250,15 +251,16 @@ Related reading:
 * Kris Cohen, “Search Engine Subjectivities”
 * Anna Watkins Fisher, “User be Used”
 
-#### Week 11: No class.
-**Work on final projects.**
+#### Week 11: Infrastructure
+* Benjamin Bratton, Introduction to _The Stack_
+* Tung Hui-Hu, from _A Prehistory of the Cloud_
 
 #### Week 12: Working Groups Working
 **Monday** December 3: Pecha kuchas, part the first
 
 **Tuesday** December 4: Pecha kuchas, part the second
 
-##### Final Projects due by 6pm on Thursday, December 6. <br /> NB: All students get an automatic extension until 5pm on Monday, December 10.
+##### Final Projects due by 6pm on Thursday, December 6. <br /> NB: All students receive an automatic extension until 5pm on Monday, December 10.
 
 
 ### Cutting Room Floor
