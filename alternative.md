@@ -13,18 +13,19 @@
 * Screening: Dziga Vertov, _Man with a Movie Camera_
 
 ### Week 4: Theodor W. Adorno: Repetition and Negation
-* Adorno, "On the Fetish Character in Music and the Regression in Listening"
+* Adorno, "On the Fetish Character in Music and the Regression of Listening"
 * Listening party: works by J.S. Bach (from _The Art of the Fugue_), Pièrres Shaeffer & Henri (_musique concrète_), Karlheinz Stockhausen ("Gesang der Jünglinge"), Alvin Lucier (_I Am Sitting in a Room_), Donna Summer ("I Feel Love"), Ariana Grande ("Break Free")
 
 ### Week 5: Guy Debord: Image and Alienation
 * Debord, "Separation Perfected" from _Society of the Spectacle_
-* Screening: clips from Debord, _Can Dialectics Break Bricks_; Dara Birnbaum, _Wonder Woman, Technology, Transformation_; Corey Arcangel, _Super Mario Clouds_
+* Interview between Cory Arcangel and Dara Birnbaum in _Artforum_ 
+* Screening: clips from Debord, _Can Dialectics Break Bricks_; Dara Birnbaum, _Wonder Woman, Technology, Transformation_; Cory Arcangel, _Super Mario Clouds_
 
 ### Week 6: Film: The Apparatus
 * Jacques Lacan, "The Mirror Stage" essay
 * Jean-Louis Baudry, "Ideological Effects of the Basic Cinematographic Apparatus"
 * Christian Metz, "The Passion for Perceiving" and "Identification/Mirror"
-* Screening: Martineau and Ducastel, _Ma vraie vie à Rouen_
+* Screening: Jacques Martineau and Olivier Ducastel, _Ma vraie vie à Rouen_
 
 ### Week 7: Donna Haraway: Simians, Cyborgs, and Women
 * Haraway, "A Cyborg Manifesto" from _Simians, Cyborgs, and Women_
