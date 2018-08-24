@@ -18,8 +18,8 @@
 
 ### Week 5: Guy Debord: Image and Alienation
 * Debord, "Separation Perfected" from _Society of the Spectacle_
-* Interview between Cory Arcangel and Dara Birnbaum in _Artforum_ 
-* Screening: clips from Debord, _Can Dialectics Break Bricks_; Dara Birnbaum, _Wonder Woman, Technology, Transformation_; Cory Arcangel, _Super Mario Clouds_
+* Interview between Cory Arcangel and Dara Birnbaum in _Artforum_
+* Screening: clips from Debord, _Can Dialectics Break Bricks_; Dara Birnbaum, _Transformation/Technology: Wonder Woman_; Cory Arcangel, _Super Mario Clouds_
 
 ### Week 6: Film: The Apparatus
 * Jacques Lacan, "The Mirror Stage" essay
