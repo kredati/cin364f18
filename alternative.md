@@ -33,7 +33,7 @@
 
 ### Week 8: Mark Hansen: Ubiquitous Sensation & Atmospheric Computing
 * Mark B. N. Hansen, "Ubiquitous Sensation or the Autonomy of the Peripheral: Towards an Atmospheric, Impersonal and Microtemporal Media"
-* Jonathan Harris, _The Network Effect_
+* Jonathan Harris, _The Network Effect_ {FIXME: More here}
 
 ### Week 9: Kris Cohen: Networks & Populations
 * Kris Cohen, "Search Engine Subjectivities" from _Never Alone Except for Now_
@@ -41,7 +41,7 @@
 
 ### Week 10: Paul Preciado: The Body as Technological Medium
 * Paul Preciado, excerpts from _Testo Junkie_
-* Works by Cassils
+* Works by Cassils; Anna Anthropy, _Dys4ia_
 
 ### Week 11: Debt & Control
 * Gilles Deleuze, "Postscript on Societies of Control"
