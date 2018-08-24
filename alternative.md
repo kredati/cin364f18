@@ -44,8 +44,9 @@
 
 ### Week 11: Debt & Control
 * Gilles Deleuze, "Postscript on Societies of Control"
-* Maurizio Lazzarato, "The Making of Indebted Man"
+* Maurizio Lazzarato, selections from _The Making of Indebted Man_
 
 ### Week 12: On Blackness
 * Fred Moten and Stefano Harney, "Blackness and Governance" from _The Undercommons_
 * Aria Dean, "Notes on Blacceleration"
+* Screening: Boots Riley, _Sorry to Bother You_
